@@ -24,7 +24,8 @@ This workshop is organized into four modules: data visualizations for data-drive
 
 Module 1 provides an overview on data visualizations and how visualizations can be used for data-driven decision making. We will discuss key considerations when building data visualizations such as who is the audience, what are you trying to communicate, and how to execute this plan. We prepared a hands-on activity that highlights design planning, creating visualization objectives and aims, and general visualization objectives and measures for The Mother Jones’ US mass shooting dataset. 
 
-[Module 1 slides](https://github.com/dashboard-osu/visualanalytics/blob/main/Module%201%20032425.pptx)
+
+[Module 1 slides](https://github.com/dashboard-osu/visualanalytics/blob/main/Module%201%20032425.pptx?raw=true)
 
 ## Module 2
 
