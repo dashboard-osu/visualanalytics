@@ -1,6 +1,7 @@
 # Data Visualization with Tableau
 
 ### Instructors: Naleef Fareed PhD MBA, Athena Stamos, BS Fareed Lab graduate student
+### College of Medicine, The Ohio State University, Columbus, Ohio
 
 ### Areas of Focus
 •	Management of the data pipeline with Tableau Prep 
