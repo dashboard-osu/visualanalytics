@@ -1,7 +1,7 @@
 # Data Visualization with Tableau
 
-### Instructors: Naleef Fareed PhD MBA, Athena Stamos, BS Fareed Lab graduate student
-### College of Medicine, The Ohio State University, Columbus, Ohio
+#### Instructors: Naleef Fareed PhD MBA, Athena Stamos, BS Fareed Lab graduate student
+#### College of Medicine, The Ohio State University, Columbus, Ohio
 
 ### Areas of Focus
 •	Management of the data pipeline with Tableau Prep 
@@ -24,7 +24,6 @@ This workshop is organized into four modules: data visualizations for data-drive
 
 Module 1 provides an overview on data visualizations and how visualizations can be used for data-driven decision making. We will discuss key considerations when building data visualizations such as who is the audience, what are you trying to communicate, and how to execute this plan. We prepared a hands-on activity that highlights design planning, creating visualization objectives and aims, and general visualization objectives and measures for The Mother Jones’ US mass shooting dataset. 
 
-
 [Module 1 slides](https://github.com/dashboard-osu/visualanalytics/blob/main/Module%201%20032425.pptx?raw=true)
 
 ## Module 2
@@ -32,7 +31,6 @@ Module 1 provides an overview on data visualizations and how visualizations can 
 ### Module 2: Introduction to Tableau Prep & Connecting to Data
 
 In this module, we will introduce Tableau Prep and learn how to connect to different data sources (e.g., Excel, SQL server) in Tableau Prep. We will learn how to import data into Tableau. We will also explore the data cleaning steps in Tableau Prep and go over basic data types (e.g., strings, dates, Boolean values), and data loading and refresh. Participants will connect and load The Mother Jones’ US mass shooting in Tableau Prep, perform basic wrangling and transformations (e.g., merges, removing duplicates, grouping values), and build a Tableau prep flow as a hands-on activity. Data for this module and the subsequent modules can be found at: https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/. 
-
 
 ## Module 3
 
