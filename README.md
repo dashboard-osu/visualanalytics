@@ -40,6 +40,12 @@ In this module, we will introduce Tableau Prep and learn how to connect to diffe
 
 Participants will be guided through using Tableau Desktop’s basic calculations and measures. We will create calculated fields and measures such as level of detail expressions and parameters. We will also go over filters and aggregations. We will use the Mother Jones’ US mass shooting dataset to create calculations and measures as part of the hands-on activity.
 
+[Module 3 Part 1 slides](https://github.com/dashboard-osu/visualanalytics/blob/main/Module%203%20032425%20Part%201.pptx?raw=true)
+
+[Module 3 Part 2 slides](https://github.com/dashboard-osu/visualanalytics/blob/main/Module%203%20032425%20Part%202.7z?raw=true)
+
+[Module 3 Activity slides](https://github.com/dashboard-osu/visualanalytics/blob/main/Module%203%20032425%20Activities.pptx?raw=true)
+
 ## Module 4
 
 ### Module 4: Exploring and Visualizing Data
