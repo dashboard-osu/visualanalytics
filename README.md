@@ -32,6 +32,8 @@ Module 1 provides an overview on data visualizations and how visualizations can 
 
 In this module, we will introduce Tableau Prep and learn how to connect to different data sources (e.g., Excel, SQL server) in Tableau Prep. We will learn how to import data into Tableau. We will also explore the data cleaning steps in Tableau Prep and go over basic data types (e.g., strings, dates, Boolean values), and data loading and refresh. Participants will connect and load The Mother Jones’ US mass shooting in Tableau Prep, perform basic wrangling and transformations (e.g., merges, removing duplicates, grouping values), and build a Tableau prep flow as a hands-on activity. Data for this module and the subsequent modules can be found at: https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/. 
 
+[Module 2 slides](https://github.com/dashboard-osu/visualanalytics/blob/main/Module%202%20032425.7z?raw=true)
+
 ## Module 3
 
 ### Module 3: Creating Calculations and Measures
