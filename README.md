@@ -8,7 +8,7 @@
 
 •	Develop fundamental skills in visualizing data with Tableau 
 
-•	Recognize critical aspects of dashboard design for professional 
+•	Recognize critical aspects of dashboard design for professionals 
 
 •	Hosting dashboards with Tableau Server 
 
