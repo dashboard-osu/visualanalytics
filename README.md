@@ -1,6 +1,6 @@
 # Data Visualization with Tableau
 
-#### Instructors: Naleef Fareed PhD MBA, Athena Stamos, BS Fareed Lab graduate student
+#### Instructors: Athena Stamos, BS, Naleef Fareed PhD MBA
 #### College of Medicine, The Ohio State University, Columbus, Ohio
 
 ### Areas of Focus
